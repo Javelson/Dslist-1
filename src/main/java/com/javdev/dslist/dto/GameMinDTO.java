@@ -1,12 +1,6 @@
 package com.javdev.dslist.dto;
 
 import com.javdev.dslist.entities.Game;
-
-import jakarta.persistence.Column;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-
 public class GameMinDTO {
     
     private long id;
